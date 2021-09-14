@@ -1,7 +1,7 @@
 {
   "name": "react-native-image-lazy-loading",
   "version": "1.0.3",
-  "description": "animated image loading for react native",
+  "description": "animated image loading for react native ",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",

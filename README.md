@@ -22,12 +22,11 @@ const  App= () => {
   );
 };
 
-Props:
-Image props
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
-
-## License
-
-MIT
+```
+## Props
+```js
+Image props (https://reactnative.dev/docs/image)
+loaderColor: string
+renderErrorComponent={<Error/> }
+renderLoaderComponent={<Loader/> }:
+```
